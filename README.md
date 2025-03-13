@@ -1,5 +1,4 @@
-# download-guide
-# Racing Master: Ultimate Realistic Racing Experience
+# Racing Master Android/iOS Download Guide
 
 ## Game Overview
 
