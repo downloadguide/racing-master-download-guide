@@ -26,7 +26,9 @@
 
 2. **TapTap Play Store** (Alternatives when Google Play is not available)
    - Provides official APKs for players outside supported regions
-   - [Racing Master Android APK Download](https://www.taptap.io/app/racing-master)
+   - [Racing Master(JP) Android APK Download](https://www.taptap.io/app/33681866)
+   - [Racing Master(Global) Android APK Download](https://www.taptap.io/app/210596)
+   - [Racing Master(SEA) Android APK Download](https://www.taptap.io/app/33809210)
 
 ### iOS
 
