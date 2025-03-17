@@ -1,4 +1,5 @@
-# Racing Master Android/iOS Download Guide
+# Download Racing Master Android/iOS APK
+It's free and secure, 100% work and official apk
 
 ## Game Overview
 
